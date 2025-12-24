@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a-joel/.github/main/Grey%20and%20Black%20Simple%20Opening%20Soon%20Banner.jpg" alt="Joel's Banner" width="100%"/>
+  <img src="https://github.com/a-joel/.github/blob/main/joel-banner-image.jpg" alt="Joel's Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Joel!</h1>
@@ -138,7 +138,19 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" width="55" height="55"/>
 </p>
-          
+
+---
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-joel&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=a-joel&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="joel" style="padding-right:20px;" />
+</p>
+
 ## Dream Company
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="55" height="55" />
 <i class="devicon-apple-original"></i>
@@ -147,3 +159,45 @@
 
 > “Code like poetry — thoughtful, elegant, and impactful.”
 
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/a-joel">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-joel&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/a-joel">
+          <img align="center" src="https://streak-stats.demolab.com?user=a-joel&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/a-joel/netflix-final">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=a-joel&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/a-joel">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=a-joel&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
