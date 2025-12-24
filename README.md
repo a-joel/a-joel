@@ -2,16 +2,28 @@
   <img src="https://raw.githubusercontent.com/a-joel/.github/main/Grey%20and%20Black%20Simple%20Opening%20Soon%20Banner.jpg" alt="Joel's Banner" width="100%"/>
 </p>
 
-# Hi there, I'm Joel! 👋
+<h1 align="center">Hi there 👋 I'm Joel!</h1>
 
-**Self-taught developer | Book lover | Future FAANG-ster | Tech Enthusiast**
+<p align="center">
+  🧠 Self-taught developer building robust backends & intelligent apps<br>
+  📚 Lifelong learner | DSA & System Design Enthusiast | Future FAANG Engineer<br>
+  ♟️ Grandmaster-in-training at <strong>Leap Chess</strong> — where algorithms meet strategy
+</p>
 
-- 🌱 Currently learning DSA and Backend Dev
-- 🤖 Exploring ML & AI
-- 💬 Ask me about web dev or habit tracking!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-a-r/) | [Twitter](https://x.com/joel__professor) | [Instagram](https://www.instagram.com/smuggler_teritory?igsh=MXJ0MGloNGZ4Zmx3MA==)
-- ✨ Fun Fact: I play Leap Chess like a grandmaster in training
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/joel-a-r/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/joel__professor">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/smuggler_teritory/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/7418283366">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 ## 🚀 I Code In
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/>
@@ -28,12 +40,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -42,16 +48,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="55" height="55"  />
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" />
-  &nbsp;&nbsp;&nbsp;
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" />
   &nbsp;&nbsp;&nbsp;
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" />
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" width="55" height="55"/>
@@ -60,8 +60,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
 
-  
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;
           
 </p>
 
@@ -109,10 +130,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
 </p>
           
